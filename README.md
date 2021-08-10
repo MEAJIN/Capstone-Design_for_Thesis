@@ -1,2 +1,2 @@
-# Capstone_Design
-졸업 논문 작성을 위해 수강했던 강의
+# CapstoneDesign for Thesis
+* 학사 과정 졸업 논문 작성에 관한 도움을 받기 위해 수강
